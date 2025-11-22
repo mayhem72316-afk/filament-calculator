@@ -1,0 +1,21 @@
+{
+  "name": "Filament Estimator",
+  "short_name": "Filament Calc",
+  "description": "Estimate remaining 3D printer filament using spool dimensions.",
+  "start_url": "./Filament_calculator.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#e53e3e",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/162447/ffffff?text=FILAMENT",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/162447/ffffff?text=FILAMENT",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
